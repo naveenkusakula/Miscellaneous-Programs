@@ -9,6 +9,8 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+//Written by DR. MICHAEL MCALLISTER
+
 public class ChatClient {
 	private Scanner scanner;
 /*Authentication method to authenticate user by creating a new connection using
